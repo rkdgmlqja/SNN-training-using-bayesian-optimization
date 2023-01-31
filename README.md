@@ -1,2 +1,2 @@
-# voxelgrid-based-SNN-NMNIST
-training SNN using voxel grid based preprocessing by snntorch and tonic
+# SNN-training using bayesian optimization
+This project contains 
